@@ -1,7 +1,7 @@
- Problem Statement:  
+# Problem Statement:  
 Texture Tales, a leading retail company, seeks to enhance its sales strategy by gaining deeper insights into product performance and customer preferences. The primary goal is to analyze product sales data to identify trends, optimize pricing strategies, and improve inventory management. This project involves examining product sales, product hierarchy, product pricing, and product details stored in a MySQL database.
 
-Approach:
+# Approach:
 Data Extraction:
 
 Source: Extracted data from MySQL database tables including Product_Sales, Product_Hierarchy, Product_Price, and Product_Details.
@@ -29,7 +29,8 @@ Statistical Analysis:
 Correlation Analysis:
 Analyzed correlations between product price, sales volume, and revenue.
 Predictive Modeling: Developed predictive models to forecast future sales based on historical data.
-Conclusion:
+
+# Conclusion:
 The analysis provided several key insights for Texture Tales:
 
 Top Performing Products: 
