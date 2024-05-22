@@ -3,7 +3,7 @@ Texture Tales Clothing Company prides themselves on providing an optimized range
 I, the CEO of this trendy fashion company is asking you to assist the team’s merchandising teams analyze their sales performance and generate a basic financial report to share with the wider business.
 
 
-CASE STUDY QUESTIONS
+Analysis  QUESTIONS we have to find.
 
 1.	What was the total quantity sold for all products?
 2.	What is the total generated revenue for all products before discounts?
